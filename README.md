@@ -1,1 +1,2 @@
 # pvdoc-status
+ok / off
